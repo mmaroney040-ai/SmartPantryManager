@@ -31,3 +31,6 @@ The Smart Pantry Manager application includes persistent pantry storage, ingredi
 
 ## Version
 Current submission build.
+
+## Testing
+The application was tested for ingredient entry, editing, deletion, recipe matching, and validation behaviour.
