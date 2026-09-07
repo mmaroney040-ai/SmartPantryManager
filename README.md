@@ -28,3 +28,6 @@ Create a PUBLIC GitHub repository and push the project from the start. Use at le
 
 ## Project Status
 The Smart Pantry Manager application includes persistent pantry storage, ingredient management, recipe matching, and settings functionality.
+
+## Version
+Current submission build.
