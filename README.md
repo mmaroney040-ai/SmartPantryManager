@@ -40,3 +40,6 @@ Pantry ingredient records are stored locally using SQLite persistence.
 
 ## User Interface
 The application provides dedicated screens for pantry ingredients, suggested recipes, recipe details, and application settings.
+
+## Recipe Matching
+Recipes are matched against available pantry ingredients and required quantities so that suggested recipes use ingredients currently available to the user.
