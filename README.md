@@ -37,3 +37,6 @@ The application was tested for ingredient entry, editing, deletion, recipe match
 
 ## Data Storage
 Pantry ingredient records are stored locally using SQLite persistence.
+
+## User Interface
+The application provides dedicated screens for pantry ingredients, suggested recipes, recipe details, and application settings.
