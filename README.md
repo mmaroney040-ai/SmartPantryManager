@@ -25,3 +25,6 @@ SQLite was selected because it is local, simple to integrate with Android throug
 
 ## GitHub
 Create a PUBLIC GitHub repository and push the project from the start. Use at least 10 genuine incremental commits as required by the assignment.
+
+## Project Status
+The Smart Pantry Manager application includes persistent pantry storage, ingredient management, recipe matching, and settings functionality.
