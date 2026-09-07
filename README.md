@@ -43,3 +43,6 @@ The application provides dedicated screens for pantry ingredients, suggested rec
 
 ## Recipe Matching
 Recipes are matched against available pantry ingredients and required quantities so that suggested recipes use ingredients currently available to the user.
+
+## Application Navigation
+Bottom navigation provides access to the Pantry, Recipes, and Settings sections of the application.
