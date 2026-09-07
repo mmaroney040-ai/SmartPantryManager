@@ -34,3 +34,6 @@ Current submission build.
 
 ## Testing
 The application was tested for ingredient entry, editing, deletion, recipe matching, and validation behaviour.
+
+## Data Storage
+Pantry ingredient records are stored locally using SQLite persistence.
